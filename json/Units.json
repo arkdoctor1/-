@@ -1,0 +1,12 @@
+[
+	{
+		"name": "源石工人",
+		"unitType": "Civilian",
+		"replaces": "Workers",
+		"uniqueTo": "罗德岛",
+		"movement": 3,
+		"cost": 100,
+		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources",],
+		"hurryCostModifier": 20
+	}
+]

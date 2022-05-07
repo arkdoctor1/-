@@ -1,0 +1,36 @@
+   
+[
+	{
+		"name": "罗德岛",
+		"leaderName": "博士",
+		"adjective": ["人类"],
+		"Avoid": ["Tundra","Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "罗德岛不惧挑战。",
+		"attacked": "罪恶应被惩治。",
+		"defeated": "我们会被毁灭，但我们不会被打败。",
+		"introduction": "您好，我们是罗德岛，一家医疗企业。",
+		
+		"neutralHello": "朋友，有什么需要帮助的吗？",
+		"neutralLetsHearIt": ["请说。","您想说是什么？","您想表达什么？"],
+		"neutralNo": ["罗德岛拒绝接受这个提议。","罗德岛并不赞同这项提议。","非常抱歉，罗德岛不会接受这项提议。"],
+		"neutralYes": ["罗德岛愿意接受这个提议。","当然可以。","这是个非常好的提议。"],
+
+		"hateHello": "有什么事情吗",
+		"hateLetsHearIt": ["说。","你想说什么？","你想表达什么？"],
+		"hateNo": ["罗德岛不可能接受这个提议。","你觉得我们可能会同意吗？","这并不是次公平的交易"],
+		"hateYes": ["是个好主意","可以。","很好....."],
+		
+		"afterPeace": "和平为大家所愿",
+		"tradeRequest": "一场令人愉快的交易",
+
+		"outerColor": [109,0,205],
+		"innerColor": [246,217,6],
+		"uniques": ["[+1 Science] from all [improvement] tiles]", "[Great Person] is earned [50]% faster"],
+		"cities": ["区块1","区块2","区块3","区块4","区块5","区块6","区块7","区块8","区块9"]
+	}
+]
