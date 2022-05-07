@@ -4,7 +4,7 @@
 		"name": "罗德岛",
 		"leaderName": "博士",
 		"adjective": ["人类"],
-		"StartAvoid": ["Tundra","Desert"],
+		"StartBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
