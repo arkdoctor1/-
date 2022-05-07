@@ -1,12 +1,17 @@
 [
 	{
-		"name": "源石工人",
-		"unitType": "Civilian",
-		"replaces": "Workers",
+		"name": "术士",
+		"unitType": "Ranged",
+		"replaces": "Composite Bowman",
 		"uniqueTo": "罗德岛",
-		"movement": 3,
-		"cost": 100,
-		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources",],
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 12,
+		"requiredTech": "Constuction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"cost": 75,
+		"promotions": ["Volley","Indirect Fire"],
 		"hurryCostModifier": 20
 	}
 ]
