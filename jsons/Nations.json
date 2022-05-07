@@ -4,7 +4,7 @@
 		"name": "罗德岛",
 		"leaderName": "博士",
 		"adjective": ["人类"],
-		"StartBias": ["Grassland"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
