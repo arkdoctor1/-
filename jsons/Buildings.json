@@ -4,7 +4,7 @@
 		"uniqueTo": "罗德岛",
 		"science": 4,
 		"replaces": "University",
-		"specialistSlots": {"Science": 3},
+		"specialistSlots": {"Scientist": 3},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"Science": 50},
 	  	"greatPersonPoints": {"Great Artist": 1},
