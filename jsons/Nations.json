@@ -28,9 +28,9 @@
 		"afterPeace": "和平为大家所愿",
 		"tradeRequest": "一场令人愉快的交易",
 
-		"outerColor": [109,0,205],
-		"innerColor": [246,217,6],
-		"uniques": ["[+2 Science, +1 Happiness] from all [Science] Buldings]", "[Great Scientist] is earned [50]% faster"],
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniques": ["[+2 Science, +1 Happiness] from all [Science] Buldings", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["区块1","区块2","区块3","区块4","区块5","区块6","区块7","区块8","区块9"]
 	}
 ]
