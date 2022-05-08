@@ -7,8 +7,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "身为人类文明的最后火种。",
+		"startIntroPart2": "拯救这片苦难的大地吧。",
 		
 		"declaringWar": "罗德岛不惧挑战。",
 		"attacked": "罪恶应被惩治。",
