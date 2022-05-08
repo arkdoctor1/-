@@ -1,17 +1,13 @@
 [
 	{
-		"name": "术士",
-		"unitType": "Ranged",
-		"replaces": "Composite Bowman",
+		"name": "天灾信使",
+		"unitType": "Recon",
+		"replaces": "Scout",
 		"uniqueTo": "罗德岛",
-		"movement": 2,
+		"movement": 3,
 		"strength": 8,
-		"rangedStrength": 12,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
-		"cost": 75,
-		"promotions": ["Volley","Indirect Fire"],
+		"cost": 40,
+		"promotions": ["Scouting I","March"],
 		"hurryCostModifier": 20
 	}
 ]
