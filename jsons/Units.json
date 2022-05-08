@@ -1,13 +1,14 @@
 [
 	{
 		"name": "天灾信使",
-		"unitType": "Recon",
+		"unitType": "Scout",
 		"replaces": "Scout",
 		"uniqueTo": "罗德岛",
 		"movement": 3,
 		"strength": 8,
 		"cost": 40,
-		"promotions": ["Scouting I","March"],
-		"hurryCostModifier": 20
+		"promotions": ["Scouting I","March",],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	}
 ]
