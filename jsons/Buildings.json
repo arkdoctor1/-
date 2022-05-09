@@ -2,12 +2,12 @@
   {
 		"name": "源石科学院",
 		"uniqueTo": "罗德岛",
-		"science": 4,
+		"science": 2,
 		"replaces": "University",
 		"specialistSlots": {"Scientist": 3},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"Science": 50},
-	  	"greatPersonPoints": {"Great Artist": 1},
+		"percentStatBonus": {"Science": 33},
+	  	"greatPersonPoints": {"Great Scientist": 1},
 		"requiredTech": "Education",
 		"requiredBuilding": "Library"
 	}
