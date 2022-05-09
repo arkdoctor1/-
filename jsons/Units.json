@@ -6,7 +6,7 @@
 		"uniqueTo": "罗德岛",
 		"movement": 3,
 		"strength": 8,
-		"cost": 40,
+		"cost": 25,
 		"promotions": ["Scouting I","March","Ignore terrain cost"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
