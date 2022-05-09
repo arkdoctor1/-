@@ -30,7 +30,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
-		"uniques": ["[+1 Science, +1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
+		"uniques": ["[+1 Happiness, +1 Production] from all [Science] buildings", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["区块1","区块2","区块3","区块4","区块5","区块6","区块7","区块8","区块9"]
 	}
 ]
