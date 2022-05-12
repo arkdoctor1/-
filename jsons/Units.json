@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 6,
 		"cost": 25,
-		"promotions": ["Scouting I","March","Ignore terrain cost"],
+		"promotions": ["Scouting I","Ignore terrain cost"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	}
